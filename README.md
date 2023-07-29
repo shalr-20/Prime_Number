@@ -22,9 +22,9 @@ ________________________________________________________________________________
 
 ## **Usage**
 * Ensure you have Java installed on your system.
-* Download the PrimeNum.java file and save it to your desired directory.
-* Open a terminal or command prompt and navigate to the directory where the PrimeNum.java file is located.
-* Compile the Java file using command :javac PrimeNum.java
+* Download the primeOrNot.java file and save it to your desired directory.
+* Open a terminal or command prompt and navigate to the directory where the primeOrNot.java file is located.
+* Compile the Java file using command :javac primeOrNot.java
 
 ## **Contributing**
 
