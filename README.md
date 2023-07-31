@@ -6,7 +6,7 @@ This is a simple Java program that checks whether a given number is prime or not
 
 **Takes a numbers:** Users can provide a number as input.
 
-**Output:** Users will get h answer if that number is prime or not.
+**Output:** Users will get the answer if that number is prime or not.
 ____________________________________________________________________________________________________________________________________________________________________
 
 # **Getting Started**
